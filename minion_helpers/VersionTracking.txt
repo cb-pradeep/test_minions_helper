@@ -1,0 +1,5 @@
+Version: 0.0.2
+- Initalized Summon Function and defined 3 microservices with endpoint url.
+
+Version: 0.0.1
+- Scaffolded Base project
