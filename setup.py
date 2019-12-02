@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="cb-infra-minion-helpers",
+    name="minions_core",
     version="0.0.3",
     author="Mohan Rajan R",
     author_email="mohan.r@chargebee.com",
